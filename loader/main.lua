@@ -6,6 +6,7 @@ local Scripts = {
     [130526979296684] = "%2B1AgePerClick",
     [88933961678687] = "hyperspeedrunner",
     [91695551099066] = "%2B1shrinkperstep",
+    [131968973304621] = "%2B1speedonepieceescape",
 }
 
 if Scripts[gameID] then
