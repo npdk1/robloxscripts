@@ -1,3 +1,5 @@
+-- Main Loader for GAMES -- 
+
 local gameID = game.PlaceId
 
 local Scripts = {
@@ -7,6 +9,7 @@ local Scripts = {
     [88933961678687] = "hyperspeedrunner",
     [91695551099066] = "%2B1shrinkperstep",
     [131968973304621] = "%2B1speedonepieceescape",
+    [109509029034984] = "%2B1AuraPerClick",
 }
 
 if Scripts[gameID] then
