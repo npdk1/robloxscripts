@@ -10,7 +10,8 @@ local Scripts = {
     [91695551099066] = "%2B1shrinkperstep",
     [131968973304621] = "%2B1speedonepieceescape",
     [109509029034984] = "%2B1AuraPerClick",
-    [76911729991355] = "noobincremental"
+    [76911729991355] = "noobincremental",
+    [79268393072444] = "selllemons",
 }
 
 if Scripts[gameID] then
