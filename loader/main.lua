@@ -14,6 +14,7 @@ local Scripts = {
     [79268393072444] = "selllemons",
     [84332574190497] = "%2B1wingsforbrainrot",
     [103525960981185] = "dumplingsquishyrace",
+    [11386537743] = "weaponevolution",
 }
 
 if Scripts[gameID] then
