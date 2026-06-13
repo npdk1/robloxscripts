@@ -18,6 +18,7 @@ local Scripts = {
     [73108986061082] = "weaponevolution",
     [107654875426558] = "%2B1speedevolve", --World 2
     [83569851223739] = "%2B1speedevolve", -- World 1
+    [72516934653833] = "egoascension",
 }
 
 if Scripts[gameID] then
